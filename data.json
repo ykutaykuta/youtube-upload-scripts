@@ -1,0 +1,16 @@
+{
+    "chapter_range": {
+        "begin": 1715,
+        "gap": 5
+    },
+    "video_file": "D:\\others\\tts\\toanchucphapsu\\audio\\1710-1714.mp4",
+    "text_files": [
+        "D:\\others\\tts\\toanchucphapsu\\text\\1710.txt",
+        "D:\\others\\tts\\toanchucphapsu\\text\\1711.txt",
+        "D:\\others\\tts\\toanchucphapsu\\text\\1712.txt",
+        "D:\\others\\tts\\toanchucphapsu\\text\\1713.txt",
+        "D:\\others\\tts\\toanchucphapsu\\text\\1714.txt"
+    ],
+    "title_file": "D:\\others\\tts\\toanchucphapsu\\text\\titles.txt",
+    "log_file": "D:\\others\\tts\\toanchucphapsu\\text\\log.log"
+}
