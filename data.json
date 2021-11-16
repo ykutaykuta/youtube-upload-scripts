@@ -1,15 +1,15 @@
 {
     "chapter_range": {
-        "begin": 1715,
+        "begin": 2040,
         "gap": 5
     },
-    "video_file": "D:\\others\\tts\\toanchucphapsu\\audio\\1710-1714.mp4",
+    "video_file": "D:\\others\\tts\\toanchucphapsu\\audio\\2035-2039.mp4",
     "text_files": [
-        "D:\\others\\tts\\toanchucphapsu\\text\\1710.txt",
-        "D:\\others\\tts\\toanchucphapsu\\text\\1711.txt",
-        "D:\\others\\tts\\toanchucphapsu\\text\\1712.txt",
-        "D:\\others\\tts\\toanchucphapsu\\text\\1713.txt",
-        "D:\\others\\tts\\toanchucphapsu\\text\\1714.txt"
+        "D:\\others\\tts\\toanchucphapsu\\text\\2035.txt",
+        "D:\\others\\tts\\toanchucphapsu\\text\\2036.txt",
+        "D:\\others\\tts\\toanchucphapsu\\text\\2037.txt",
+        "D:\\others\\tts\\toanchucphapsu\\text\\2038.txt",
+        "D:\\others\\tts\\toanchucphapsu\\text\\2039.txt"
     ],
     "title_file": "D:\\others\\tts\\toanchucphapsu\\text\\titles.txt",
     "log_file": "D:\\others\\tts\\toanchucphapsu\\text\\log.log"

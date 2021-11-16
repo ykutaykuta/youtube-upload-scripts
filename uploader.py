@@ -58,6 +58,7 @@ def main():
 
     try:
         loggin.confirm_logged_in(driver)
+        print("login confirmed")
         driver.get("https://studio.youtube.com")
         assert "Channel dashboard" in driver.title
         driver.file_detector = LocalFileDetector()
